@@ -1,0 +1,12 @@
+.services-box i {
+    background: #dff6ff;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    display: inline-block;
+    padding-top: 19px;
+}
+
+.services-icon {
+    width: 100px;
+}
